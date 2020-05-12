@@ -15,7 +15,4 @@ defmodule Procs do
         greeter(count)
     end
   end
-
-  def greeting() do
-  end
 end
